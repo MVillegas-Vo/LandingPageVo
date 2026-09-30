@@ -1,4 +1,4 @@
-"# Rein-Vø" 
+# Rein-Vø
 #  Landing Page - Proyecto Web
 
 Bienvenido al repositorio oficial de nuestra **Landing Page**. Este proyecto utiliza una arquitectura moderna basada en **React** y **Vite** para garantizar un rendimiento óptimo y un desarrollo ágil.
